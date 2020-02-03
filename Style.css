@@ -1,0 +1,254 @@
+.firstBody{
+    background-image: url("resources/ps5.jpg");
+}
+.top{
+    height: 10vh;
+    justify-content: right;
+    display: flex;
+    align-items: center;
+}
+.top_left{
+    height: 10vh;
+    justify-content: left;
+    display: flex;
+    align-items: center;
+    width: 50%;
+}
+.top_right{
+    height: 10vh;
+    justify-content: left;
+    display: flex;
+    align-items: center;
+    width: 30%;
+    margin-left: 20%;
+}
+.firstUl{
+    list-style-type: none;
+    justify-content: space-between;
+    display: flex;
+    width: 50%;
+    margin-right: 20%;
+    color: white;
+    font-size: 20px;
+}
+li a{
+    text-decoration: none;
+    color: white;
+}
+.form{
+    min-height: 30vh;
+    width: 40%;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
+.a{
+    color: white;
+    text-align: center;
+}
+.p1{
+    text-align: center;
+    color: white;
+}
+.b{
+    width: 80%;
+    height: 5vh;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    background-color: unset;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+
+}
+.talk{
+    margin-left: 40%;
+    background-color: gray;
+}
+.d{
+    border-style: solid;
+    border-radius: 5px;
+    padding: 5px;
+}
+.top_div{
+    display: flex;
+    height: 22vh;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.topleft{
+    width: 15%;
+    height: 20vh;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.topmid {
+    height: 30vh;
+    width: 70%;
+    display: flex;
+    justify-content: left;
+}
+.secondUl{
+    list-style-type: none;
+    justify-content: space-between;
+    display: flex;
+    width: 75%;
+    align-items: center;
+    margin-left: unset;
+}
+.topright{
+    height: 30vh;
+    width: 15%;
+    align-items: center;
+    justify-content: center;
+}
+.space{
+    height: 10vh;
+}
+.h1{
+    text-align: center;
+    color: white;
+}
+.p2{
+    color: white;
+    text-align: center;
+}
+.links{
+    width: 40%;
+    align-items: center;
+    margin: auto;
+    height: 10vh;
+    justify-content: center;
+}
+.thirdUl{
+    justify-content: space-between;
+    width: 45%;
+    display: flex;
+    list-style-type: none;
+}
+.fourthUl {
+    justify-content: space-between;
+    width: 80%;
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    margin-top: 12vh;
+    padding: 15px;
+}
+.y{
+    border-style: solid;
+    padding: 10px;
+    font-size: small;
+}
+.z{
+    border-style: solid;
+    padding: 10px;
+    font-size: small;
+    background-color: white;
+    color: black;
+}
+.secondBody{
+    background-image: url("resources/deer.jpg");
+    background-size: cover;
+}
+.mainDiv {
+    display: flex;
+    min-height: 95vh;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    background-image: url("resources/pacific.jpeg");
+    background-size: cover;
+}
+.leftDiv {
+    height: 90vh;
+    width: 49%;
+    margin-bottom: 10px;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(0, 0,0,0.5);
+}
+.rightDiv {
+    display: flex;
+    height: 90vh;
+    width: 49%;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.rightform{
+    height: 60vh;
+    width: 80%;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    opacity: 0.5;
+}
+.x {
+    width: 80%;
+    height: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    align-items: center;
+    color: white;
+    font-size: medium;
+    background-color: unset;
+}
+.you{
+    padding-bottom: 30px;
+    background-color: unset;
+    width: 80%;
+    height: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    color: white;
+    font-size: medium;
+
+}
+.submit{
+    background-color: orangered;
+    color: white;
+    margin-left: 20px;
+    width: 80%;
+    height: 40px;
+}
+.Fom{
+    margin-top: 70px;
+}
+.lH1{
+    font-weight: unset;
+    text-align: center;
+    color: white;
+    margin-top: 10vh;
+}
+.lH2{
+    font-weight: unset;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+.lH3{
+    font-weight: unset;
+    text-align: center;
+    color: white;
+}
+.enom{
+    background-color: unset;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    font-size: 20px;
+}
